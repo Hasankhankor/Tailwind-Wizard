@@ -10,6 +10,7 @@ const Splash: React.FC = () => {
                     </svg>
                 </div>
                 <p className="text-gray-700 text-lg">Tailwind Wizard</p>
+                <p className="text-gray-700 text-lg">@khankor</p>
             </div>
         </div>
     );
